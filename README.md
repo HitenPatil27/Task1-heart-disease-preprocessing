@@ -15,7 +15,7 @@ Learn how to:
 ---
 
 ## Dataset
-We used the [Heart Disease UCI Dataset](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci).
+We used the [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 
 ---
 
